@@ -60,6 +60,7 @@ library
     Flat.Instances.Vector
     Flat.Memory
     Flat.Run
+    Flat.Transient
     Flat.Tutorial
     Flat.Types
 
